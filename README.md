@@ -39,7 +39,7 @@ To set up the Face Emotion Recognition System on your local machine, follow thes
 1. **Clone the Repository**: Start by cloning the project repository to your local machine using Git.
 
     ```bash
-    git clone https://github.com/Aviral-Nagar-12/FaceEmotionRecognition.git
+    git clone https://github.com/aviralnagarcodex/FaceEmotionRecognition.git
     cd face-emotion-recognition
     ```
 
